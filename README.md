@@ -1,2 +1,2 @@
-# butterflyCa
-game based on flappyBird
+# butterflyGame
+game based on flappybird. 
